@@ -8,3 +8,5 @@ def display_rainbow(colors)
   " B: #{colors[4]},"+
   " I: #{colors[5]},"+
   " V: #{colors[6]}"
+
+end
